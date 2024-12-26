@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BitCoin</string>
+    <string name="coin">Coin</string>
+    <string name="txt_only_tokens">Only Tokens</string>
+    <string name="txt_only_coins">Only Coins</string>
+    <string name="txt_active_coins">Active Coins</string>
+    <string name="txt_inactive_coins">Inactive Coins</string>
+    <string name="txt_new_coins">New Coins</string>
+    <string name="txt_image">image</string>
+</resources>
